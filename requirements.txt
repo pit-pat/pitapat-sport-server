@@ -7,7 +7,7 @@ Django==3.0.5
 django-celery-beat==2.0.0
 django-celery-results==1.2.1
 django-timezone-field==4.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 kombu==4.6.8
 psycopg2-binary==2.8.5
 python-crontab==2.4.2
